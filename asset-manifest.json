@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tinchat/static/css/main.e0953ffa.css",
-    "main.js": "/tinchat/static/js/main.c93cd43a.js",
+    "main.js": "/tinchat/static/js/main.7909b3a8.js",
     "static/media/ChatDummy.png": "/tinchat/static/media/ChatDummy.e6f716a1fdfa8f02c8ae.png",
     "static/media/shuffleIcon.png": "/tinchat/static/media/shuffleIcon.bb88701853ea8f0e6ac0.png",
     "static/media/shuffleIconClicked.png": "/tinchat/static/media/shuffleIconClicked.8c03b70cd38e62cd74d3.png",
@@ -10,10 +10,10 @@
     "static/media/copy.svg": "/tinchat/static/media/copy.4c19a6dd8558a8e82f16d174837df176.svg",
     "static/media/more-vertical.svg": "/tinchat/static/media/more-vertical.4cad70953b302c2ee888bebb7b319618.svg",
     "main.e0953ffa.css.map": "/tinchat/static/css/main.e0953ffa.css.map",
-    "main.c93cd43a.js.map": "/tinchat/static/js/main.c93cd43a.js.map"
+    "main.7909b3a8.js.map": "/tinchat/static/js/main.7909b3a8.js.map"
   },
   "entrypoints": [
     "static/css/main.e0953ffa.css",
-    "static/js/main.c93cd43a.js"
+    "static/js/main.7909b3a8.js"
   ]
 }
