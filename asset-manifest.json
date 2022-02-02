@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tinchat/static/css/main.60fae52b.css",
-    "main.js": "/tinchat/static/js/main.27eb25d9.js",
+    "main.css": "/tinchat/static/css/main.e858578f.css",
+    "main.js": "/tinchat/static/js/main.bb247266.js",
     "index.html": "/tinchat/index.html",
     "static/media/hangup.svg": "/tinchat/static/media/hangup.ca680c473b3d6fd82b279b8507d318e6.svg",
     "static/media/copy.svg": "/tinchat/static/media/copy.4c19a6dd8558a8e82f16d174837df176.svg",
     "static/media/more-vertical.svg": "/tinchat/static/media/more-vertical.4cad70953b302c2ee888bebb7b319618.svg",
-    "main.60fae52b.css.map": "/tinchat/static/css/main.60fae52b.css.map",
-    "main.27eb25d9.js.map": "/tinchat/static/js/main.27eb25d9.js.map"
+    "main.e858578f.css.map": "/tinchat/static/css/main.e858578f.css.map",
+    "main.bb247266.js.map": "/tinchat/static/js/main.bb247266.js.map"
   },
   "entrypoints": [
-    "static/css/main.60fae52b.css",
-    "static/js/main.27eb25d9.js"
+    "static/css/main.e858578f.css",
+    "static/js/main.bb247266.js"
   ]
 }
