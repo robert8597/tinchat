@@ -3,11 +3,11 @@
   "name": "Tinchat",
   "icons": [
     {
-      "src": "android-chrome-192x192.png",
+      "src": "logo192.png",
       "sizes": "192x192"
     },
     {
-      "src": "android-chrome-512x512.png",
+      "src": "logo512.png",
       "sizes": "512x512"
     },
     {
